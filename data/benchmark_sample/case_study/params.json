@@ -1,0 +1,19 @@
+{
+  "delta": 15.0,
+  "mu": 0.05,
+  "dist_cost": 1.0,
+  "time_window_h": 7.0,
+  "service_min": 20,
+  "coord_range": [
+    0,
+    100
+  ],
+  "dist_metric": "Euclidean",
+  "instance": "CSDVRP-CS-01",
+  "n": 13,
+  "K_total": 6,
+  "total_fleet_cap": 150,
+  "coord_type": "real-world-inspired",
+  "seed": null,
+  "note": "Representative instance modelling a centralised medical supply chain: 13 customer nodes, 6 large trucks (3 types, 20T-30T), fleet util=78.3%, avg 2.2 hospitals per route, night-shift distribution 22:00-05:00. Applicable to any multi-facility healthcare logistics network."
+}

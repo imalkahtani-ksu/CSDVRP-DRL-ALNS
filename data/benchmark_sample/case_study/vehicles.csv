@@ -1,0 +1,4 @@
+vtype_id,label,capacity,emit_base,emit_beta,count,total_cap
+1,20T-Truck,20.0,0.43,0.25,2,40.0
+2,25T-Truck,25.0,0.48,0.23,2,50.0
+3,30T-Truck,30.0,0.52,0.22,2,60.0
